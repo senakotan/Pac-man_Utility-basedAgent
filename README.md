@@ -60,16 +60,8 @@ The project is organized into a modular structure to keep functionalities clean 
 pac-man-utility-agent/
 
 ├── main.py # Game loop, rendering, event handling
-
 ├── pacman.py # Pac-Man movement, animations, state logic
-
 ├── ghost.py # Ghost movement, modes, frightened behavior
-
-├── grid.py # Maze layout and collision map
-
-├── utils/ # Pathfinding utilities and helper functions
-
 ├── assets/ # Sprites, sound effects, textures
 
 ---
-
