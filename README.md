@@ -69,9 +69,9 @@ pac-man-utility-agent/
 
 ---
 
-##🎮 Game Preview
+## 🎮 Game Preview
 
-![Pac-Man Utility Agent Screenshot](assets/pacman_game.png)
+![](assets/pacman_game.PNG)
 
 ---
 
